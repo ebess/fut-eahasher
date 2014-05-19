@@ -1,0 +1,15 @@
+{
+    "name": "fut/eahashor",
+    "description": "EA Hashor for secret answer for Fifa Ultimate Team.",
+    "authors": [
+        {
+            "name": "Eduard Bess",
+            "email": "eduard.bess@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0" : {
+            "Fut" : "src"
+        }
+    }
+}
